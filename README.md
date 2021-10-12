@@ -1,3 +1,2 @@
 # Sort_visualize
-
-testing one two three bla bla bla
+sorting visualizer using SDL2 module in C++
